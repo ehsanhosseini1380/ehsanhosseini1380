@@ -9,21 +9,20 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 
 <h1 align="center">Hi 👋, I'm Ehsan Hosseini</h1>
  <h3 align="center">A front-end developer</h3> 
-- 📚 Studying B.Sc. Computer science at [Ferdowsi University](https://www.um.ac.ir)  <br/>
+- 📚 Studying B.Sc. Computer science at Ferdowsi University(https://www.um.ac.ir)  <br/>
 - Interested in Web development
+- 📫 You can reach me by my gmail:ehosseini8001@gmail.com
+<br/> 
 
 ## Languages and Tools
 <p align="left"> 
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-<img src="https://worldvectorlogo.com/download/next-js.svg" alt="nextjs" width="40" height="40"/> </a> 
-
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 
