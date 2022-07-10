@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Ehsan Hosseini</h1>
  <h3 align="center">A front-end developer</h3> 
 - 📚 Studying B.Sc. Computer science at Ferdowsi University(https://www.um.ac.ir)  <br/>
-- Interested in Web development
+- Interested in Web development <br/>
 - 📫 You can reach me by my gmail:ehosseini8001@gmail.com
 <br/> 
 
