@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **ehsanhosseini1380/ehsanhosseini1380** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,11 +15,11 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Ehsan Hosseini</h1>
-<!-- <h3 align="center">A front-end developer</h3> -->
-- 📚 Studying B.Sc. Computer science at [Ferdowsi University](https://www.um.ac.ir)
+ <h3 align="center">A front-end developer</h3> 
+- 📚 Studying B.Sc. Computer science at [Ferdowsi University](https://www.um.ac.ir)  <br/>
 - Interested in Web development
 
-##Languages and Tools
+## Languages and Tools
 <p align="left"> 
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
 <img src="https://worldvectorlogo.com/download/next-js.svg" alt="nextjs" width="40" height="40"/> </a> 
@@ -70,7 +69,8 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arminZolfaghari&show_icons=true&include_all_commits=true&theme=darcula" ><br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arminZolfaghari&theme=darcula&langs_count=6&hide=c" alt="Armin Zolfaghari's Github Steak" /><br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arminzolfaghari&layout=compact&theme=darcula&langs_count=6&hide=c" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ehsanhosseini1380&show_icons=true&include_all_commits=true&theme=darcula" ><br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ehsanhosseini1380&theme=darcula&langs_count=6&hide=c" alt="ehsanhosseini1380's Github Steak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehsanhosseini1380&layout=compact&theme=darcula&langs_count=6&hide=c" />
 </p>
